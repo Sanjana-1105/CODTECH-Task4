@@ -32,7 +32,7 @@ The tool uses a password to derive a secure encryption key and allows safe encry
 
 ### 📦 How to Run
 
-## 🔐 How to Encrypt a File
+## How to Encrypt a File
 
 ```bash
 python encrypt_tool.py
@@ -41,7 +41,7 @@ python encrypt_tool.py
 - Enter your password (input hidden)
 - Output: `secret.txt.enc` (AES-256 encrypted file)
 
-## 🔓 How to Decrypt a File
+## How to Decrypt a File
 
 ```bash
 python decrypt_tool.py
